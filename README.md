@@ -1,15 +1,15 @@
 #  Apex Legends Weapon Balancing Insights (EWC Finals)
 
 ## 1. The Problem
-In high-level competitive Apex Legends, weapon variety makes the game exciting to watch and play. However, esports data from the Year 5 EWC Finals shows that professional players are heavily favoring a tiny handful of weapons, leaving the rest of the game's arsenal completely unused. 
+In high-level competitive Apex Legends, weapon variety keeps the game balanced and exciting. However, data from the Year 5 EWC Finals reveals that professional players are heavily favoring a tiny handful of weapons, completely leaving other weapon classes out of the competitive sandbox.
 
 ## 2. The Data Detective Work
-I analyzed the `Weapons Stats Summary.csv` dataset from the tournament. Using spreadsheet analysis, I calculated the total kills per weapon class (Assault Rifles, SMGs, Shotguns, Snipers) and isolated the weapons with the highest pick-to-kill efficiency.
+I analyzed the official tournament dataset tracking weapon performance. By evaluating the raw kill data, I isolated the weapons dominating the tournament meta and identified the baseline weapons that are currently unviable in professional play.
 
 ## 3. The Big Discoveries
-* **The Meta Dictator:** A single weapon class accounted for the vast majority of all tournament eliminations, proving that close-range burst damage is currently unmatched.
-* **The Ghost Guns:** Sniper rifles and pistols combined made up less than 5% of total kills, showing they are not viable options in the current professional meta.
+* ** The Meta Dictators (Top 3 Kills):** The **R-99 SMG**, **Devotion LMG**, and **30-30 Repeater** completely dominated the tournament. These three weapons dictate close, medium, and long-range professional play.
+* ** The Ghost Guns (Bottom 3 Kills):** Despite balance adjustments, the **Mozambique (Akimbo)**, **EVA-8 Auto**, and **Sentinel** sat at the absolute bottom of the performance list. Pro players completely passed them up.
 
 ## 4. My Balance Recommendations for Respawn Entertainment
-* ** THE NERF:** Reduce the headshot multiplier of the top-performing SMG/AR by 15% to give other weapon classes a fighting chance at medium range.
-* ** THE BUFF:** Increase the base damage of Sniper Rifles by 10 points to reward players who choose high-skill, long-range positioning.
+* ** THE NERF (R-99 & Devotion):** Slightly increase the recoil pattern on the R-99 and lower the maximum magazine size on the Devotion LMG to prevent them from suffocating other weapon choices.
+* ** THE BUFF (Akimbo Mozambique & Sentinel):** Increase the close-range pellet damage for the Akimbo Mozambique to make it a viable alternative to SMGs, and increase the fire rate of the Sentinel to help it compete with the 30-30 Repeater.
