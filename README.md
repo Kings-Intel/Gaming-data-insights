@@ -7,6 +7,7 @@ In high-level competitive Apex Legends, weapon variety keeps the game balanced a
 I analyzed the official tournament dataset tracking weapon performance. By evaluating the raw kill data, I isolated the weapons dominating the tournament meta and identified the baseline weapons that are currently unviable in professional play.
 
 ## 3. The Big Discoveries
+![Apex Weapon Kills Chart](apex-chart.png)
 * ** The Meta Dictators (Top 3 Kills):** The **R-99 SMG**, **Devotion LMG**, and **30-30 Repeater** completely dominated the tournament. These three weapons dictate close, medium, and long-range professional play.
 * ** The Ghost Guns (Bottom 3 Kills):** Despite balance adjustments, the **Mozambique (Akimbo)**, **EVA-8 Auto**, and **Sentinel** sat at the absolute bottom of the performance list. Pro players completely passed them up.
 
